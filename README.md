@@ -1,6 +1,6 @@
 # ButterCMS Express.js Example
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/akash-joshi/nodejs-express-example.git)
 
 After deploying to Heroku, email support@buttercms.com for access to the demo account.
 
